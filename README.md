@@ -3,7 +3,7 @@
 The goal of the developer exercise is to take a quick dive into a React Native to build ios/android application with Image Storage Service.
 
 ## React Native (No Expo)
-1. User could signin and signip with different methods (email, google, etc..)
+1. User could signin and signup with different methods (email, google, etc..)
 2. User could upload their photo to server.
 3. User could browse(swiper) their photo in app
 4. User could share their photo to others (link or share to whatsapp)
